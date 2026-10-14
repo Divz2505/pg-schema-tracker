@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+schemas/schema_*.json
+schemas/latest_schema.json
